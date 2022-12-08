@@ -1,0 +1,14 @@
+#app {
+  font-family: "Comfortaa", cursive;
+}
+.btn-success {
+  background-color: #98a8f8;
+  border: none;
+  box-shadow: 1px 2px 2px rgb(56, 56, 56);
+}
+.btn-success:hover {
+  background-color: #bccef8;
+}
+.router-link-exact-active {
+  font-weight: bold;
+}
