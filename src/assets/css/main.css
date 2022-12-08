@@ -9,6 +9,9 @@
 .btn-success:hover {
   background-color: #bccef8;
 }
+.bg-nav {
+  background-color: #cdfcf6;
+}
 .router-link-exact-active {
   font-weight: bold;
 }
