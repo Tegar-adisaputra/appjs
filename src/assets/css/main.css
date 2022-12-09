@@ -10,8 +10,18 @@
   background-color: #bccef8;
 }
 .bg-nav {
-  background-color: #cdfcf6;
+  /* background-color: #cdfcf6; */
+}
+.nav-item {
+  margin-right: 10px;
+  margin-left: 20px;
+}
+.navbar-brand {
+  font-size: xx-large;
 }
 .router-link-exact-active {
   font-weight: bold;
+  color: whitesmoke;
+  border-radius: 5px;
+  background-color: #98a8f8;
 }
