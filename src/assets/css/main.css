@@ -1,6 +1,7 @@
 #app {
   font-family: "Comfortaa", cursive;
 }
+
 .btn-success {
   background-color: #98a8f8;
   border: none;
@@ -10,14 +11,20 @@
   background-color: #bccef8;
 }
 .bg-nav {
-  /* background-color: #cdfcf6; */
+  background-color: #faf7f0;
 }
-.nav-item {
+/* .container {
+  margin: 0;
+  padding: 0;
+} */
+
+/* .nav-item {
   margin-right: 10px;
   margin-left: 20px;
-}
+} */
 .navbar-brand {
   font-size: xx-large;
+  margin-right: 30px;
 }
 .router-link-exact-active {
   font-weight: bold;
