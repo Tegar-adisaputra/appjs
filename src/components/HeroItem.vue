@@ -4,7 +4,8 @@
       <!-- dekstop -->
       <div class="d-none d-md-block">
         <div class="row mt-3">
-          <div class="col-md-6">
+          <div class="col-md-2"></div>
+          <div class="col-md-4">
             <div class="d-flex h-100">
               <div class="justify-content-center align-self-center konten-hero">
                 <h2>
