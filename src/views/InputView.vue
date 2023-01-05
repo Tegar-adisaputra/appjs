@@ -20,7 +20,7 @@ export default {
   components: {
     NavbarItem,
   },
-
+  //API
   data() {
     return {
       title: "",
@@ -39,6 +39,7 @@ export default {
       console.warn(result);
     },
   },
+  //
 };
 </script>
 

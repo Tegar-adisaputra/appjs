@@ -17,6 +17,11 @@
   margin: 0;
   padding: 0;
 } */
+
+.card {
+  margin: 4px 4px 4px 4px;
+  justify-content: center;
+}
 .card-product {
   border-radius: 15px;
 }
